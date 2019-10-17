@@ -1,0 +1,1 @@
+python fc_parameterization_main.py H C -err square -guess step0
